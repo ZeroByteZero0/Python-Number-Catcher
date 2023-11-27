@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GoogleITAutomationWithPython", "GoogleITAutomationWithPython\GoogleITAutomationWithPython.pyproj", "{48B4556C-B548-44B7-A6B2-0E9DBE85221D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B4556C-B548-44B7-A6B2-0E9DBE85221D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B4556C-B548-44B7-A6B2-0E9DBE85221D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FB3236F-B485-4559-A1F3-ADD0A23E2B99}
+	EndGlobalSection
+EndGlobal
