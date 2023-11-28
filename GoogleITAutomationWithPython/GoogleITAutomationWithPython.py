@@ -1,19 +1,30 @@
-#HI WHAT CAN YOU DO IN PYTHON?
-    #create simple programs
-#CAN YOU TELL ME ABOUT THE HISTORY OF PYTHON?
-    #created by Guido Van Rossen in 1990s
-#CAN YOU WRITE BASIC STATEMENTS, FUNCTIONS, PROGRAMS?
-    #Basic statements
-    #variable assignments
-    #modulus functions
-#CAN YOU RUN SCRIPTS THAT RETURN TEXT FILES LOGGED WITH DATA?
-    #not off the top of my head
-#CAN YOU WRITE SCRIPTS, PORT SCANNERS, WIRESHARK AUTOMATION SCRIPTS?
-    #not off the top of my head
-# semicolons after statements are allowed but rarely used
-#** used for exponentiation
-#// used for integer division
-#: used for beginning an if statement or a while loop body
+#***************************************************************************# 
+# Copyright © 2023, "Johal Informations Co."                                # 
+#   All rights reserved.                                                    # 
+#                                                                           # 
+#  Author:                                                                  # 
+#     "Manjinder Johal"                                                     # 
+#                                                                           # 
+#  Department:                                                              # 
+#     Python Programming            		                                # 
+#                                                                           # 
+#  Purpose:                                                                 # 
+#     This program creates Program that captures and ammends text to a file #
+#                                                                           # 
+#  Effects:                                                                 # 
+#     The expected usage is:                                                # 
+#      1.  Introduce selected Python Commands                               # 
+#      2.  Serve as a baseline for Text file manipulation in Python 		#
+#      3.  Introduce the existance of coding standards                      # 
+#                                                                           # 
+# Revision History                                                          # 
+# //2023 "Manjinder Johal"													# 
+#     - Original Version based on:											#
+#				- Coursera Google IT Automation with Python					#
+#																			#
+#																			#
+#																			# 
+#***************************************************************************#
 
 import os
 from time import sleep
@@ -80,6 +91,3 @@ def getGud():
         if Name == "Mon Cheri":
             break
 getGud()
-
-#test comment for push on Git!!!
-
